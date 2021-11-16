@@ -1,0 +1,3 @@
+D:/studia/sem2/Algorithms&DS/plecak_klopot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/studia/sem2/Algorithms&DS/plecak_klopot/cmake-build-debug/CMakeFiles/plecak_klopot.dir
+D:/studia/sem2/Algorithms&DS/plecak_klopot/cmake-build-debug/CMakeFiles/edit_cache.dir

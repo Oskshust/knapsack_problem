@@ -1,0 +1,3 @@
+C:\Users\Admin\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\plecak_klopot.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\plecak_klopot.dir/objects.a @CMakeFiles\plecak_klopot.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\plecak_klopot.dir/objects.a -Wl,--no-whole-archive  -o plecak_klopot.exe -Wl,--out-implib,libplecak_klopot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\plecak_klopot.dir\linklibs.rsp
